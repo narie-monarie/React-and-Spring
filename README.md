@@ -13,7 +13,7 @@ docker pull postgres
 
 Host: localhost
 Port: 5432
-User: {youdbName}
+User: {yourdbName}
 Password: master
 
 ```
